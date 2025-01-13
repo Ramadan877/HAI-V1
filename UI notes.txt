@@ -1,0 +1,26 @@
+instructions as steps
+
+check boxes based on completion (Coursera)
+
+keeping all the recordings in the history of the exercies
+
+information tab about the system, defining the privacy and information of the student's usage
+
+Azure transcription services
+
+adding waves for sound recording (WhatsApp)
+
+add pauses between the sentences of the AI's answers
+
+flipping between speech to speech
+
+when would it be terminated !? (learning objective or fixed no. of steps) , max 5 iterations
+
+survey or questionaire (where did you record your answers,what could be made better and so on)
+
+
+Tracking what the student is doing (log history) what pages are viewed, daytime, when would the tabs be switched or closed, device accessed on (os, windows) which browser ? 
+
+
+Limiting the lag for students
+
